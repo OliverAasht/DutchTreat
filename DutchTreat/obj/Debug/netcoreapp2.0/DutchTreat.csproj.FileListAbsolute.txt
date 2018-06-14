@@ -9,3 +9,4 @@ C:\Users\Oli\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTre
 C:\Users\Oli\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.AssemblyInfo.cs
 C:\Users\Oli\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.dll
 C:\Users\Oli\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.pdb
+C:\Users\Oli\source\repos\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
