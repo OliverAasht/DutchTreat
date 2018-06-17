@@ -8,14 +8,14 @@
 </head>
 <body>
     <header>
-    <h1>Welcome to Dutch Treat</h1>
-    <menu>
-        <ul>
-      <li><a asp-controller="App" asp-action="Index">Home</a></li>
-      <li><a asp-controller="App" asp-action="Contact">Contact</a></li>
-      <li><a asp-controller="App" asp-action="About">About</a></li
-        </ul>
-    </menu>
+        <h1>Welcome to Dutch Treat</h1>
+        <menu>
+            <ul>
+                <li><a asp-controller="App" asp-action="Index">Home</a></li>
+                <li><a asp-controller="App" asp-action="Contact">Contact</a></li>
+                <li><a asp-controller="App" asp-action="About">About</a></li>
+            </ul>
+        </menu>
     </header>
     <section>
         <h1>@ViewBag.Title</h1>
@@ -24,6 +24,8 @@
     <footer>Copyright 2018 Dutch Treat LLC</footer>
 
     <script src="~/js/index.js"></script>
+    <script src="~/vendor/jquery/dist/jquery.js"></script>
+    <script src="~/vendor/bootstrap/dist/js/bootstrap.js"></script>
     @RenderSection("scripts", false)
 </body>
 </html>
