@@ -35,7 +35,7 @@ namespace DutchTreat
                 app.UseStaticFiles(new StaticFileOptions()
                 {
                     FileProvider = new PhysicalFileProvider(
-        Path.Combine(Directory.GetCurrentDirectory(), @"node_modules")),
+        Path.Combine(Directory.GetCurrentDirectory(), @"npm")),
                     RequestPath = new PathString("/vendor")
                 });
             }
